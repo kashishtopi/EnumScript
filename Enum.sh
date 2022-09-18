@@ -111,3 +111,5 @@ rm $URL/recon/wayback/extensions/jsp1.txt
 rm $URL/recon/wayback/extensions/json1.txt
 rm $URL/recon/wayback/extensions/php1.txt
 rm $URL/recon/wayback/extensions/aspx1.txt
+
+#A big Thanks to Heath Adams (Cybermentor) for the guidance.
