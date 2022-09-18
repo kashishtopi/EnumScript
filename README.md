@@ -1,0 +1,2 @@
+# EnumScript
+Automating the Enumeration
